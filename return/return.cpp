@@ -1,5 +1,5 @@
 // Returning threads and passing them
-#include "func.h"
+#include "../common/func.h"
 
 thread f()
 {
